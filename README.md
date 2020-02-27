@@ -1,37 +1,25 @@
-## Indialantic Coding Club
+# Indialantic Cubing Club
 
-You can use the [editor on GitHub](https://github.com/psifertex/icclub/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the Indialantic Cubing Club.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Signups
 
-### Markdown
+Parents with interested children should complete the [signup form](https://forms.gle/wQP9UqDBvwxYibyG9).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Schedule
 
-```markdown
-Syntax highlighted code block
+Our Current schedule is:
 
-# Header 1
-## Header 2
-### Header 3
+- Tue Mar 3, 2:30pm-3:30pm (Media Center)
+- Tue Mar 10, 2:30pm-3:30pm (Media Center)
+- Tue Mar 17 SPRING BREAK, NO CLUB
+- Tue Mar 25, 2:30pm-3:30pm (Alternate Location TBD)
+- Remaining dates TBD
 
-- Bulleted
-- List
+## Resources
 
-1. Numbered
-2. List
+If you missed a meeting, no worries, all our [slides](https://drive.google.com/drive/u/0/folders/1Ews8dUe3AFnRn6iTm5Vc3st5mb_zcouR) are available online after each meeting!
 
-**Bold** and _Italic_ and `Code` text
+### Contact
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/psifertex/icclub/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Feel free to [email us](mailto:team@indialanticcubing.club) if you have any questions.
