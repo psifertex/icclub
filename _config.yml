@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: [Indialantic Cubing Club]
 description: [An informational site for students and parents]
-logo: [assets/images/icc_small.png]
+logo: "assets/images/icc_small.png"
 show_downloads: ["false"]
