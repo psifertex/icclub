@@ -4,7 +4,7 @@ Welcome to the Indialantic Cubing Club.
 
 ## Signups
 
-*Note that we are over our 20 person limit -- you are welcome to still sign up, but you will be on the waitless or contacted as we are able to add more sessions*
+*Note that we are over our 20 person limit -- you are welcome to still sign up, but you will be on the waitlist or contacted as we are able to add more sessions*
 
 Parents with interested children should complete the [signup form](https://forms.gle/wQP9UqDBvwxYibyG9).
 
