@@ -10,7 +10,7 @@ Parents with interested children should complete the [signup form](https://forms
 
 ## Schedule
 
-Our Current schedule is:
+Our current schedule is:
 
 - Tue Mar 3, 2:30pm-3:30pm (Media Center)
 - Tue Mar 10, 2:30pm-3:30pm (Media Center)
