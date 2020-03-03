@@ -28,28 +28,28 @@ If you missed a meeting, no worries, all our [slides](https://drive.google.com/d
 
 ### Recommend Shops
 
-- https://cubedepotusa.com (best prices in the US)
-- https://speedcubeshop.com/ and https://www.thecubicle.com/ (widest selection, good websites)
-- https://cubezz.com/ (very slow shipping from China, very cheap)
-- https://ziicube.com/ (another slow but cheap store)
+- [https://cubedepotusa.com](https://cubedepotusa.com) (best prices in the US)
+- [https://speedcubeshop.com/](https://speedcubeshop.com/) and [https://www.thecubicle.com/](https://www.thecubicle.com/) (widest selection, good websites)
+- [https://cubezz.com/](https://cubezz.com/) (very slow shipping from China, very cheap)
+- [https://ziicube.com/](https://ziicube.com/) (another slow but cheap store)
 
 ### Online Timer
 
-https://cstimer.net/new
+- [https://cstimer.net/new](https://cstimer.net/new)
 
 ### Algorithms
 
-- https://jperm.net/ (lots of algorithms and nice layout)
-- https://ruwix.com/online-puzzle-simulators/ (online simulator)
-- https://cubing.net/ (lots of useful functions)
-- http://cubewhiz.com/ (Felix Zemdeg’s webpage)
+- [https://jperm.net/](https://jperm.net/) (lots of algorithms and nice layout)
+- [https://ruwix.com/online-puzzle-simulators/](https://ruwix.com/online-puzzle-simulators/) (online simulator)
+- [https://cubing.net/](https://cubing.net/) (lots of useful functions)
+- [http://cubewhiz.com/](http://cubewhiz.com/) (Felix Zemdeg’s webpage)
 
 ### Good Cubing YouTubers
 
-- JPerm: https://www.youtube.com/channel/UCqTVfT9JQqhA6_Hi_h_h97Q (while mostly family safe, at least one of his videos does say "what the h___")
-- TingMan: https://www.youtube.com/channel/UC9Ht_7PQ1G4UIPhjSkF-phw
-- “Why We Cube” Documentary: https://www.youtube.com/watch?v=1oZY2e25VUw
-- AndrewTheCuber: https://www.youtube.com/channel/UCnsi5sMWS1SnboHmcmCwK4g
+- [JPerm](https://www.youtube.com/channel/UCqTVfT9JQqhA6_Hi_h_h97Q): While mostly family safe, at least one of his videos does say "what the h___"
+- [TingMan](https://www.youtube.com/channel/UC9Ht_7PQ1G4UIPhjSkF-phw): Australian and daughter with good quality videos
+- "[Why We Cube](https://www.youtube.com/watch?v=1oZY2e25VUw)" Documentary
+- [AndrewTheCuber](https://www.youtube.com/channel/UCnsi5sMWS1SnboHmcmCwK4g): Sometimes fun/silly cubing videos 
 
 ### Recommended Cubes
 
