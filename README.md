@@ -55,11 +55,11 @@ If you missed a meeting, no worries, all our [slides](https://drive.google.com/d
 
 Note that many cubes come in both stickered and stickerless, don't accidentally order the wrong one if you have a preference. Most of these are probably overkill for beginning cuberse but they do feel nice! Cubes are very much a matter of personal preference though, so ask around at the club if you want to try different cubes first to get a sense for how they feeel. Also realize that you can tune the cubese with lubricant, different settings, different springs, and even sometimes customize the magnet strength depending on the cube. 
 
-$9-$11: GuHong V3 M: If you want to buy thee recommended $11 cube, you can either get it yourself [1](https://cubedepotusa.com/products/dayan-guhong-v3-m), [2](https://speedcubeshop.com/products/dayan-guhong-v3-magnetic-3x3), or [3](https://www.thecubicle.com/products/dayan-guhong-v3-m) or bring cash to a future meeting.
-$23-$26 TengYun M: [1](https://cubedepotusa.com/collections/new-products/products/dayan-tengyun-m-3x3), [2](https://speedcubeshop.com/products/dayan-tengyun-m-3x3), [3](https://www.thecubicle.com/products/dayan-tengyun-m-3x3)
-$23-$26 WeiLong GTS 2 M: [1](https://cubedepotusa.com/products/moyu-weilong-gts2-m), [2](https://speedcubeshop.com/products/moyu-weilong-gts2-m-3x3), [3](https://www.thecubicle.com/products/moyu-weilong-gts2-m)
-$35: GAN 354 M V2: [2](https://speedcubeshop.com/products/gan-354-magnetic-3x3-v2), [3](https://www.thecubicle.com/products/gan354-m-v2) (V2 has some minor improvements over v1, but v1 is fine too)
-$59: GAN 356 XS: [1](https://cubedepotusa.com/products/gan356-xs), [2](https://speedcubeshop.com/products/gan-356-xs-magnetic-3x3), [3](https://www.thecubicle.com/products/gan356-xs)
+- $9-$11: GuHong V3 M: If you want to buy thee recommended $11 cube, you can either get it yourself [1](https://cubedepotusa.com/products/dayan-guhong-v3-m), [2](https://speedcubeshop.com/products/dayan-guhong-v3-magnetic-3x3), or [3](https://www.thecubicle.com/products/dayan-guhong-v3-m) or bring cash to a future meeting.
+- $23-$26 TengYun M: [1](https://cubedepotusa.com/collections/new-products/products/dayan-tengyun-m-3x3), [2](https://speedcubeshop.com/products/dayan-tengyun-m-3x3), [3](https://www.thecubicle.com/products/dayan-tengyun-m-3x3)
+- $23-$26 WeiLong GTS 2 M: [1](https://cubedepotusa.com/products/moyu-weilong-gts2-m), [2](https://speedcubeshop.com/products/moyu-weilong-gts2-m-3x3), [3](https://www.thecubicle.com/products/moyu-weilong-gts2-m)
+- $35: GAN 354 M V2: [2](https://speedcubeshop.com/products/gan-354-magnetic-3x3-v2), [3](https://www.thecubicle.com/products/gan354-m-v2) (V2 has some minor improvements over v1, but v1 is fine too)
+- $59: GAN 356 XS: [1](https://cubedepotusa.com/products/gan356-xs), [2](https://speedcubeshop.com/products/gan-356-xs-magnetic-3x3), [3](https://www.thecubicle.com/products/gan356-xs)
 
 If you just want a very cheap cube to share with friends, the <$5 [YuXin Little Magic](https://cubedepotusa.com/products/yuxin-little-magic-3x3) is generally considered a great cube for the price (no magets!).
 
