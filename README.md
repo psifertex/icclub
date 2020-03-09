@@ -4,9 +4,9 @@ Welcome to the Indialantic Cubing Club.
 
 ## Signups
 
-*Note that we are over our 20 person limit -- you are welcome to still sign up, but you will be on the waitlist or contacted as we are able to add more sessions*
+_Update 2020-04-08_: We've expanded our student limit by splitting the class into K-3 and 4-6. We'll have up to 20 students in each of the two sections which helps us accomidate all the students who've shown interest so far! 
 
-Parents with interested children should complete the [signup form](https://forms.gle/wQP9UqDBvwxYibyG9).
+Parents with interested children must complete the [signup form](https://forms.gle/wQP9UqDBvwxYibyG9).
 
 ## Schedule
 
@@ -58,8 +58,8 @@ Note that many cubes come in both stickered and stickerless, don't accidentally 
 - $9-$11: GuHong V3 M: If you want to buy thee recommended $11 cube, you can either get it yourself [cubedepot](https://cubedepotusa.com/products/dayan-guhong-v3-m), [scs](https://speedcubeshop.com/products/dayan-guhong-v3-magnetic-3x3), or [cubicle](https://www.thecubicle.com/products/dayan-guhong-v3-m) or bring cash to a future meeting. At 54mm, slightly smaller than other cubes, this is not only a great cube for kids but a great calue. Comes great out kf the box. Magnets, but no customization othee than tension. 
 - $23-$26 TengYun M: [cubedepot](https://cubedepotusa.com/collections/new-products/products/dayan-tengyun-m-3x3), [scs](https://speedcubeshop.com/products/dayan-tengyun-m-3x3), [cubicle](https://www.thecubicle.com/products/dayan-tengyun-m-3x3). The TengYun is known as a very good mid-tier cube and is best known as one of the quietest cubes. 
 - $23-$26 WeiLong GTS 2 M: [cubedepot](https://cubedepotusa.com/products/moyu-weilong-gts2-m), [scs](https://speedcubeshop.com/products/moyu-weilong-gts2-m-3x3), [3cubicle](https://www.thecubicle.com/products/moyu-weilong-gts2-m). One of my favorite cubes with fantastic performance, it lacks the customization of more expensive cubes but has amazing performance. I prefer its performande over the TengYun at the same price but it is much noiser. It is possible to quiet most cubes though with the right lube and settings. 
-- $35: GAN 354 M V2: [scs](https://speedcubeshop.com/products/gan-354-magnetic-3x3-v2), [cubicle](https://www.thecubicle.com/products/gan354-m-v2) (V2 has some minor improvements over v1, but v1 is fine too)
-- $59: GAN 356 XS: [cubedepot](https://cubedepotusa.com/products/gan356-xs), [scs](https://speedcubeshop.com/products/gan-356-xs-magnetic-3x3), [cubicle](https://www.thecubicle.com/products/gan356-xs)
+- $34.95-$35.99: GAN 354 M V2: [scs](https://speedcubeshop.com/products/gan-354-magnetic-3x3-v2), [cubicle](https://www.thecubicle.com/products/gan354-m-v2) (V2 has some minor improvements over v1, but v1 is fine too)
+- $49.99-$59.95: GAN 356 XS: [cubedepot](https://cubedepotusa.com/products/gan356-xs), [scs](https://speedcubeshop.com/products/gan-356-xs-magnetic-3x3), [cubicle](https://www.thecubicle.com/products/gan356-xs)
 
 For most students, any of the three cheapest cubes should be fine. Almost all modern cubes perform so well that the only major difference the highest end ones offer is the anount of customization and it takes a while to even be able to tell what customization will work for you. 
 
