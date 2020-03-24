@@ -4,7 +4,7 @@ Welcome to the Indialantic Cubing Club.
 
 ## Signups
 
-_Update 2020-04-08_: We've expanded our student limit by splitting the class into K-3 and 4-6. We'll have up to 20 students in each of the two sections which helps us accomidate all the students who've shown interest so far! 
+_Update 2020-04-23_: Given the COVID-19 situation, cubing club meetings has been post-poned until further notice. We're going to continue to practice however and we'll be putting out lessons online on [YouTube](https://www.youtube.com/channel/UC8sr_DiBEPqcjXpj23mtgRA/videos). Also, I have spare cubes, so if your student doesn't have one to practice at home with, please [let us know](#contact). Anyone that already paid for snacks, we're happy to convert your snack money into a cube instead to practice while we're all practicing our social distancing. For anyone who hasn't paid yet, the cubes are only $10. 
 
 Parents with interested children must complete the [signup form](https://forms.gle/wQP9UqDBvwxYibyG9).
 
@@ -15,8 +15,7 @@ Our current schedule is:
 - Tue Mar 3, 2:30pm-3:30pm (Media Center)
 - Tue Mar 10, 2:30pm-3:30pm (Media Center)
 - Tue Mar 17 SPRING BREAK, NO CLUB
-- Tue Mar 25, 2:30pm-3:30pm (Alternate Location TBD)
-- Remaining dates TBD
+- POSTPONED!
 
 ## Overview
 
