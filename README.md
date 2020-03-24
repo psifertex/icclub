@@ -4,9 +4,11 @@ Welcome to the Indialantic Cubing Club.
 
 ## Signups
 
-_Update 2020-04-23_: Given the COVID-19 situation, cubing club meetings has been post-poned until further notice. We're going to continue to practice however and we'll be putting out lessons online on [YouTube](https://www.youtube.com/channel/UC8sr_DiBEPqcjXpj23mtgRA/videos). Also, I have spare cubes, so if your student doesn't have one to practice at home with, please [let us know](#contact). Anyone that already paid for snacks, we're happy to convert your snack money into a cube instead to practice while we're all practicing our social distancing. For anyone who hasn't paid yet, the cubes are only $10. 
+_Update 2020-04-23_: Given the COVID-19 situation, cubing club meetings has been postponed until further notice. We're going to continue to practice however and we'll be putting out lessons online on [YouTube](https://www.youtube.com/channel/UC8sr_DiBEPqcjXpj23mtgRA/videos). Also, I have spare cubes, so if your student doesn't have one to practice at home with, please [let us know](#contact). Anyone that already paid for snacks, we're happy to convert your snack money into a cube instead to practice while we're all practicing our social distancing. For anyone who hasn't paid yet, the cubes are only $10. 
 
-Parents with interested children must complete the [signup form](https://forms.gle/wQP9UqDBvwxYibyG9).
+## Online Lessons!
+
+<iframe width="478" height="269" src="https://www.youtube.com/embed/LdRCjlnSX20" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Schedule
 
